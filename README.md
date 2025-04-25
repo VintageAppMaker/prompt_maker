@@ -22,12 +22,13 @@
 4. [엔지니어들의 Prompt](4.prompt_by_engineer.md)
 5. [컴퓨팅 사고력을 위한 Prompt 연습](5.computational_thinking.md)
 
-
 ### 2. 학습예제
-
-
-### 3. link
-
-- [🧮 Auto Prompt Maker: 프롬프트 자동화 도구](https://chatgpt.com/g/g-67fb42338ef881919c788ebcdc0fd677-auto-prompt-maker)
 - [📑 프롬프트 엔지니어링 트레이닝 - 교육자료(Google Apps Script)](https://docs.google.com/spreadsheets/d/1qOJPVtXyneKn0yGKGOtrg1L4P-FkpOqdxZn96mnnZzM/edit?usp=sharing)
+- [🧮 Auto Prompt Maker: 프롬프트 자동화 도구](https://chatgpt.com/g/g-67fb42338ef881919c788ebcdc0fd677-auto-prompt-maker)
+
+### 3. AI 서비스 개발의 이해 
 - [👨‍💻 Open AI(chatgpt) API를 활용한 서비스구축 -교육자료(colab)](https://docs.google.com/presentation/d/e/2PACX-1vSWbjQBW0pcC9Wb-IUY6eD6ZTofpx9tZUccvo6eySSFV1Hw-dK6KlqfSpDY3aB-G0KUmN5NRC8lUdn9/pub?start=false&loop=false&delayms=3000)
+
+
+### 3. 기타 
+- [prompt note](https://github.com/VintageAppMaker/PromptNote)
