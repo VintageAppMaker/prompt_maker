@@ -32,3 +32,4 @@
 
 ### 3. 기타 
 - [prompt note](https://github.com/VintageAppMaker/PromptNote)
+- [Auto Prompt Maker](https://chatgpt.com/g/g-67fb42338ef881919c788ebcdc0fd677-auto-prompt-maker)
