@@ -19,7 +19,7 @@
 1. [Prompt란?](1.prompt.md)
 2. [Propmpt의 기초](2.prompt_basic.md)
 3. [prompt의 유형](3.prompt_type.md)
-4. [엔지니어들의 Prompt](4.prompt_engineer.md)
+4. [엔지니어들의 Prompt](4.prompt_by_engineer.md)
 5. [컴퓨팅 사고력을 위한 Prompt 연습](5.computational_thinking.md)
 
 
